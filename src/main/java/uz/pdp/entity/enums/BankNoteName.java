@@ -1,0 +1,17 @@
+package uz.pdp.entity.enums;
+
+public enum BankNoteName {
+
+    THOUSAND_SUM,
+    FIVE_THOUSAND_SUM,
+    TEN_THOUSAND_SUM,
+    FIFTY_THOUSAND_SUM,
+    HUNDRED_THOUSAND_SUM,
+
+    ONE_DOLLAR,
+    FIVE_DOLLAR,
+    TEN_DOLLAR,
+    TWENTY_DOLLAR,
+    FIFTY_DOLLAR,
+    HUNDRED_DOLLAR
+}
